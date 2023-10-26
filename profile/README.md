@@ -9,7 +9,7 @@ Contact [shsingh@linux.com](mailto:shsingh@linux.com) for more information.
 ## FAQ
 
 Q. Why the name 'Kailash'?<br>
-A. The authors have been long-time users and fans of SLAX, BackTrack and Kali Linux. The name "Kailash" is an acknowledgement to credit Kali Linux as the main source of inspiration.
+A. The authors have been long-time users and fans of WHAX/SLAX, BackTrack/Knoppix and Kali Linux. The name "Kailash" is an acknowledgement to credit Kali Linux as the main source of inspiration.
 Kailash is also the residence of Lord Shiva in Hindu scriptures.
 
 ## Acknowledgements
