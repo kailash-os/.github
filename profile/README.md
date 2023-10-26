@@ -16,7 +16,7 @@ Kailash is also the residence of Lord Shiva in Hindu scriptures.
 
 - [Kali Linux](https://kali.org)
 - [NixOS](https://nixos.org)
-- [Spectrum OS](https://spectrum-os.org)
+- [Spectrum](https://spectrum-os.org)
 - [KaliNix](https://github.com/balsoft/kalinix/)
 - [Nix Security Box](https://github.com/fabaff/nix-security-box)
 - [RedNix](https://github.com/redcode-labs/RedNix)
