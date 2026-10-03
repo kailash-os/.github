@@ -1,5 +1,7 @@
 # Kailash OS
 
+[![License: GPL v2](https://img.shields.io/badge/kailash--os%20%2B%20packages-GPL--2.0-blue)](https://github.com/kailash-os/kailash-os/blob/main/LICENSE) [![Site](https://img.shields.io/website?down_message=offline&up_message=live&url=https%3A%2F%2Fkailash.site)](https://kailash.site) [![Roadmap](https://img.shields.io/badge/roadmap-Kailash%20Roadmap-8A2BE2)](https://github.com/orgs/kailash-os/projects/1)
+
 Kailash is a Nix-OS based Linux operating system for use in Adversarial Machine Learning.
 
 ## Project Status: 
