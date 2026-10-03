@@ -4,6 +4,8 @@ Kailash is a Nix-OS based Linux operating system for use in Adversarial Machine 
 
 ## Project Status: 
 
+Active development. The roadmap and build backlog live on the [Kailash Roadmap project board](https://github.com/orgs/kailash-os/projects/1) — issues KA-01…KA-44 in [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os). Docs site planned at [kailash.site](https://kailash.site); kailash.tools is reserved for the release binary cache.
+
 Contact [shain.singh@owasp.org](mailto:shain.singh@owasp.org) for more information.
 
 ## FAQ
