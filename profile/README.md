@@ -4,7 +4,7 @@ Kailash is a Nix-OS based Linux operating system for use in Adversarial Machine 
 
 ## Project Status: 
 
-Contact [shsingh@linux.com](mailto:shsingh@linux.com) for more information.
+Contact [shain.singh@owasp.org](mailto:shain.singh@owasp.org) for more information.
 
 ## FAQ
 
