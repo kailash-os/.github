@@ -1,12 +1,18 @@
 # Kailash OS
 
-[![License: GPL v2](https://img.shields.io/badge/kailash--os%20%2B%20packages-GPL--2.0-blue)](https://github.com/kailash-os/kailash-os/blob/master/LICENSE) [![Site](https://img.shields.io/website?down_message=offline&up_message=live&url=https%3A%2F%2Fkailash.site)](https://kailash.site) [![Roadmap](https://img.shields.io/badge/roadmap-Kailash%20Roadmap-8A2BE2)](https://github.com/orgs/kailash-os/projects/1) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/kailash-os/kailash-os/badge)](https://scorecard.dev/viewer/?uri=github.com/kailash-os/kailash-os)
+[![License: BSD-3-Clause](https://img.shields.io/badge/licence-BSD--3--Clause-blue)](https://github.com/kailash-os/kailash-os/blob/master/LICENSE) [![release](https://img.shields.io/badge/release-2026.01--alpha.1-blue)](https://github.com/kailash-os/kailash-os/releases) [![Site](https://img.shields.io/website?down_message=offline&up_message=live&url=https%3A%2F%2Fkailash.site)](https://kailash.site) [![Roadmap](https://img.shields.io/badge/roadmap-Kailash%20Roadmap-8A2BE2)](https://github.com/orgs/kailash-os/projects/1) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/kailash-os/kailash-os/badge)](https://scorecard.dev/viewer/?uri=github.com/kailash-os/kailash-os)
 
-Kailash is a Nix-OS based Linux operating system for use in Adversarial Machine Learning.
+Kailash is a NixOS-based Linux distribution for AI security — offensive
+(ATTACK), defensive (DEFENCE), classic (CLASSIC), and platform (OPS) tooling in
+one declaratively built, reproducibly released environment.
 
-## Project Status: 
+## Project Status:
 
-Active development. The roadmap and build backlog live on the [Kailash Roadmap project board](https://github.com/orgs/kailash-os/projects/1) — issues KA-01…KA-44 in [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os). Docs site planned at [kailash.site](https://kailash.site); kailash.tools is reserved for the release binary cache.
+**`2026.01-alpha.1` — the first staged cut is out** (bare `2026.01` is
+reserved for GA; the full policy: [releases.md](https://github.com/kailash-os/kailash-os/blob/master/docs/guide/releases.md)).
+The complete release-candidate surface ships on [kailash.site](https://kailash.site);
+the roadmap and build backlog live on the [Kailash Roadmap project board](https://github.com/orgs/kailash-os/projects/1)
+— issues in [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os).
 
 Contact [shain.singh@owasp.org](mailto:shain.singh@owasp.org) for more information.
 
