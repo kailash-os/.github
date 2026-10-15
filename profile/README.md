@@ -42,7 +42,7 @@ A. The authors have been long-time users and fans of WHAX/SLAX, BackTrack/Knoppi
 Kailash is also the residence of Lord Shiva in Hindu scriptures.
 
 Q. Why is Kailash based on NixOS and not {Debian|Arch}? <br>
-A. The authors have only recently started learning Nix and NixOS and this project provided an opportunity to do a deep-dive. 
+A. The authors have only recently started learning Nix and NixOS and this project provided an opportunity to do a deep-dive.
 
 ## Acknowledgements
 
