@@ -13,8 +13,27 @@ reserved for GA; the full policy: [releases.md](https://github.com/kailash-os/ka
 The complete release-candidate surface ships on [kailash.site](https://kailash.site);
 the roadmap and build backlog live on the [Kailash Roadmap project board](https://github.com/orgs/kailash-os/projects/1)
 — issues in [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os).
+The documentation estate carries the user and administrator guide at
+[docs.kailash.tools](https://docs.kailash.tools) and task-oriented recipes
+in the [Kailash OS Cookbook](https://book.kailash.tools).
 
 Contact [shain.singh@owasp.org](mailto:shain.singh@owasp.org) for more information.
+
+## Documentation estate
+
+- [kailash.site](https://kailash.site) — project home: overview, taxonomy, architecture, the paper, the roadmap.
+- [docs.kailash.tools](https://docs.kailash.tools) — user and administrator guide with a man-style reference page for every tool in the catalogue.
+- [book.kailash.tools](https://book.kailash.tools) — the cookbook: task-oriented recipes (Problem → Solution → Discussion → See also).
+
+## Repositories
+
+- [kailash-os](https://github.com/kailash-os/kailash-os) — the OS: NixOS flake, spec, release engineering.
+- [kailash-packages](https://github.com/kailash-os/kailash-packages) — the tool manifest and package overlay.
+- [kailash-website](https://github.com/kailash-os/kailash-website) — kailash.site and the paper.
+- [kailash-docs](https://github.com/kailash-os/kailash-docs) — the guide at docs.kailash.tools.
+- [kailash-book](https://github.com/kailash-os/kailash-book) — the cookbook at book.kailash.tools.
+- [kailash-references](https://github.com/kailash-os/kailash-references) — vendored upstream reference repositories.
+- [.github](https://github.com/kailash-os/.github) — this org profile.
 
 ## FAQ
 
